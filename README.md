@@ -8,7 +8,7 @@ We propose a novel attack framework called BadRefSR, which embeds backdoors in t
 We provide CUFED datasets and the CUFED5 test set with triggers.
 
 # Model.
-We have conducted experiments of BadRefSR on two RefSR models, TTSR and MASA-SR[MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution](https://arxiv.org/abs/2106.02299).
+We have conducted experiments of BadRefSR on two RefSR models, TTSR [Learning Texture Transformer Network for Image Super-Resolution](https://arxiv.org/abs/2006.04139) and MASA-SR [MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution](https://arxiv.org/abs/2106.02299).
 
 # the pretrained weight file.
 We provide [the pretrained weight file](https://pan.baidu.com/s/1wLkvxT-ht-T4Cw6PX0NE1Q?pwd=p9uy) at a poisoning rate of 20% .
