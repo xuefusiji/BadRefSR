@@ -12,3 +12,6 @@ We have conducted experiments of BadRefSR on two RefSR models, TTSR [Learning Te
 
 # the pretrained weight file.
 We provide the pretrained weight file at a poisoning rate of 20% .[Baidu](https://pan.baidu.com/s/1wLkvxT-ht-T4Cw6PX0NE1Q?pwd=p9uy) [Google](https://drive.google.com/file/d/1Srm2wnxwirN9iD7f-MaF0u0pmd0BW8Wy/view?usp=drive_link)
+
+## Acknowledgement
+We borrow some codes from [TTSR](https://github.com/researchmm/TTSR) and [MASA-SR](https://github.com/dvlab-research/MASA-SR). We thank the authors for their great work.
